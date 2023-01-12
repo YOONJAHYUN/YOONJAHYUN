@@ -2,7 +2,7 @@
 
 
 
-
+![YOONJAHYUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOONJAHYUN)
 
 1. 98년생, 범띠
 
