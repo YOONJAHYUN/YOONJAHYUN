@@ -1,6 +1,8 @@
 # 윤자현
 
-[![YOONJAHYUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOONJAHYUN)](https://github.com/YOONJAHYUN/github-readme-stats)
+
+
+
 
 1. 98년생, 범띠
 
