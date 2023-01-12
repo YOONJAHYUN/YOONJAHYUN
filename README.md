@@ -2,8 +2,6 @@
 
 ![YOONJAHYUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOONJAHYUN)
 
-
-
 1. 98년생, 범띠
 
 2. 3월 23일생
@@ -23,8 +21,6 @@
 9. 취미 : 사진찍기, 닌텐도 동물의 숲
 
 10. 좋아하는 캐릭터 : 동물의 숲 히죽이
-    
-    
     
     1. ![히죽 (@ACNH_Bob_bot) / Twitter](https://pbs.twimg.com/profile_images/1274581745107480576/18QWwtbg_400x400.jpg)
     
@@ -56,4 +52,4 @@
     
     10. 음악취향 : 똥똥똥똥하면서 청량한 노래
     
-    11. 이상형 : 키크고 강아지상 좋아함
+    11. 
