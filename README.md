@@ -22,7 +22,7 @@
 
 10. 좋아하는 캐릭터 : 동물의 숲 히죽이
     
-    1. ![히죽 (@ACNH_Bob_bot) / Twitter](https://pbs.twimg.com/profile_images/1274581745107480576/18QWwtbg_400x400.jpg)
+    1. ![히죽 | 동물의 숲 주민 백과 | 🇰🇷한국어](https://nhim.splf.in/image/acnh/animal/Bob.png)
     
     2. 영어이름 : bob
     
@@ -51,5 +51,3 @@
     9. 전화번호 궁금하면 저에게 mm주세요
     
     10. 음악취향 : 똥똥똥똥하면서 청량한 노래
-    
-    11. 
