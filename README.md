@@ -1,6 +1,8 @@
 # 윤자현
 
-![loading-ag-2438](![Jahyun's%20Github%20stats](https://github-readme-stats.vercel.app/api?username=YOONJAHYUN&show_icons=true&theme=transparent))
+![loading-ag-2455](![YOONJAHYUN's%20GitHub%20stats](https://github-readme-stats.vercel.app/api?username=YOONJAHYUN&show_icons=true&theme=transparent))
+
+
 
 1. 98년생, 범띠
 
@@ -21,15 +23,18 @@
 9. 취미 : 사진찍기, 닌텐도 동물의 숲
 
 10. 좋아하는 캐릭터 : 동물의 숲 히죽이
-    ![히죽 (@ACNH_Bob_bot) / Twitter](https://pbs.twimg.com/profile_images/1274581745107480576/18QWwtbg_400x400.jpg)
     
-    1. 히죽이 생일 : 1월 1일
     
-    2. 영어이름 : bob
     
-    3. 취미 : 뛰어다니기
+    1. ![히죽 (@ACNH_Bob_bot) / Twitter](https://pbs.twimg.com/profile_images/1274581745107480576/18QWwtbg_400x400.jpg)
     
-    4. 좋은 이유 :눈웃음 쩐다
+    2. 
+    
+    3. 영어이름 : bob
+    
+    4. 취미 : 뛰어다니기
+    
+    5. 좋은 이유 :눈웃음 쩐다
 
 11. 이가영과 동반 입과 성공
     
