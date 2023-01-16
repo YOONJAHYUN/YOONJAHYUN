@@ -2,31 +2,35 @@
 
 <p align="center">
 <a href="https://github.com/YOONJAHYUN/">
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Y&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YOONJAHYUN&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
-1. 98년생, 범띠
+1. <img title="" src="README_assets/58f25a9bb055e987abcc092e20504881d9e605ef.jpg" alt="825AB9EA-218C-4EF6-BC39-89B3CCB446A4.jpg" width="300">
+   
+   
 
-2. 3월 23일생
+2. 98년생, 범띠
 
-3. ENFP
+3. 3월 23일생
 
-4. 전기 디스플레이반도체 전공
+4. ENFP
 
-5. 현재 동래에서 통학 중 넘 힘들어서 자취방 구할 예정
+5. 전기 디스플레이반도체 전공
 
-6. 좋아하는 색 : 노란색
+6. 현재 동래에서 통학 중 넘 힘들어서 자취방 구할 예정
 
-7. 최애 노래 : lauv - never not
+7. 좋아하는 색 : 노란색
 
-8. 음악 취향 : 인디, 잔잔해서 잠 올 것 같은 노래
+8. 최애 노래 : lauv - never not
 
-9. 취미 : 사진찍기, 닌텐도 동물의 숲
+9. 음악 취향 : 인디, 잔잔해서 잠 올 것 같은 노래
 
-10. 좋아하는 캐릭터 : 동물의 숲 히죽이
+10. 취미 : 사진찍기, 닌텐도 동물의 숲
+
+11. 좋아하는 캐릭터 : 동물의 숲 히죽이
     
-    1. ![히죽 | 동물의 숲 주민 백과 | 🇰🇷한국어](https://nhim.splf.in/image/acnh/animal/Bob.png)
+    1. <img src="https://nhim.splf.in/image/acnh/animal/Bob.png" title="" alt="히죽 | 동물의 숲 주민 백과 | 🇰🇷한국어" width="71">
     
     2. 영어이름 : bob
     
@@ -34,7 +38,7 @@
     
     4. 좋은 이유 :눈웃음 쩐다
 
-11. 이가영과 동반 입과 성공
+12. 이가영과 동반 입과 성공
     
     1. 98년생, 범띠
     
