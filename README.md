@@ -7,8 +7,5 @@
 
 <div align="center">
 
-
-
-
-
-[http://mazassumnida.wtf/api/v2/generate_badge?bog=jalonge)](https://solved.ac/jalonge/)![Solved.ac Profile]()
+[![Solved.ac
+Profile](http://mazassumnida.wtf/api/generate_badge?boj={jalonge})](https://solved.ac/{jalonge})
