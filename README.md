@@ -7,5 +7,8 @@
 
 <div align="center">
 
+pip install -r requirements.txt
+python manage.py runserver
+
 [![Solved.ac
-Profile](http://mazassumnida.wtf/api/generate_badge?boj={jalonge})](https://solved.ac/profile/jalonge)
+Profile](http://mazassumnida.wtf/api/generate_badge?boj={jalonge})](https://solved.ac/{jalonge})
