@@ -8,4 +8,4 @@
 <div align="center">
 
 [![Solved.ac
-Profile](http://mazassumnida.wtf/api/generate_badge?boj={jalonge})](https://solved.ac/{jalonge})
+Profile](http://mazassumnida.wtf/api/generate_badge?boj={jalonge})](https://solved.ac/profile/jalonge)
