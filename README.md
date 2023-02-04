@@ -14,8 +14,7 @@ Profile](http://mazassumnida.wtf/api/generate_badge?boj=jalonge)](https://solved
 
 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={jalonge})](https://solved.ac/{jalonge})
+<img src="http://mazandi.herokuapp.com/api?handle={jalonge}&theme=warm"/>
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle={jalonge}&theme=warm)
 
