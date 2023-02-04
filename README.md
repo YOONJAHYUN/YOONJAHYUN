@@ -7,8 +7,16 @@
 
 <div align="center">
 
-pip install -r requirements.txt
-python manage.py runserver
+<div align="center">
 
 [![Solved.ac
-Profile](http://mazassumnida.wtf/api/generate_badge?boj={jalonge})](https://solved.ac/{jalonge})
+Profile](http://mazassumnida.wtf/api/generate_badge?boj=jalonge)](https://solved.ac/jalonge)
+
+
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={jalonge})](https://solved.ac/{jalonge})
+
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={jalonge}&theme=warm)
+
+</div>
