@@ -5,5 +5,7 @@
 
 </div>
 
+<div align="center">
+
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={jalonge})](https://solved.ac/{jalonge})
+](http://mazassumnida.wtf/api/generate_badge?boj={jalonge})](https://solved.ac/{jalonge})
