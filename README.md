@@ -60,7 +60,7 @@
 <br/>
 <br/>
 
-<div>
+<div align=center>
 	<h2>🎀 More 🎀</h2>
 </div>
 
