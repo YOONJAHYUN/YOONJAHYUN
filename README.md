@@ -64,6 +64,8 @@
 	<h2>🎀 More 🎀</h2>
 </div>
 
+<div align=center>
+
 
 ![Jahyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOONJAHYUN&show_icons=true&theme=solarized-light)
 
