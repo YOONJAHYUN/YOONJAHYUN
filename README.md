@@ -60,7 +60,7 @@
 <br/>
 <br/>
 
-<div align=center>
+<div>
 	<h2>🎀 More 🎀</h2>
 </div>
 
@@ -80,7 +80,6 @@ Profile](http://mazassumnida.wtf/api/generate_badge?boj=jalonge)](https://solved
 
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOONJAHYUN%2Fhit-counter&count_bg=%23B4B4B4&title_bg=%23FF3C3C&icon=sparkpost.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)
-
 <a href="https://www.instagram.com/y00njahyun/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 
