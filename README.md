@@ -60,9 +60,10 @@
 <br/>
 <br/>
 
-<div align="center">
-<h3>🎀 More 🎀</h3>
-<br/>
+<div align=center>
+	<h2>🎀 More 🎀</h2>
+</div>
+
 
 ![Jahyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOONJAHYUN&show_icons=true&theme=solarized-light)
 
