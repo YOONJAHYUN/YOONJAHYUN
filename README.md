@@ -74,7 +74,7 @@ Profile](http://mazassumnida.wtf/api/generate_badge?boj=jalonge)](https://solved
 
 </div>
 
-<div align=center>
+<div>
 	<h2>About me❔</h2>
 </div>
 
